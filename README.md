@@ -46,3 +46,5 @@ Escapado de símbolos (anula los comandos) -> \# texto ejemplo -> \#texto
 * ELEMENTO A
 * ELEMENTO B
 * ELEMENTO C
+  * SUB ELEMENTO C1
+  * SUB ELEMENTO C2
