@@ -9,3 +9,11 @@ es una forma de escribir texto con formato (negritas, titulos, listas, incluir e
 
 
 SALTOS DE LINEAS: separar dos parrafos: enter dos veces
+
+Forzar salto <br>  br
+
+sangria con TAB o 4 espacios
+
+---
+
+
