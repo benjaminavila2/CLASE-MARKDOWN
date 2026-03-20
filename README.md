@@ -63,3 +63,13 @@ Escapado de símbolos (anula los comandos) -> \# texto ejemplo -> \#texto
 **IMAGEN** : ![texto alternativo](https://url-de-la-imagen.jpg)
 
 **IMAGEN CON LINK** : [![texto alternativo](url-imagen)](url-destino)
+
+### EJEMPLO
+
+**LINK** : [Flor de Hibisco](https://unsplash.com/es/s/fotos/flor-hibisco)
+
+**IMAGEN** : ![FLOR DE HIBISCO]([https://url-de-la-imagen.jpg](https://casaplantavigo.com/blog/wp-content/uploads/2023/06/todos-los-cuidados-que-necesita-el-hibisco.jpg))
+
+**IMAGEN CON LINK** : [![FLOR DE HIBISCO](https://casaplantavigo.com/blog/wp-content/uploads/2023/06/todos-los-cuidados-que-necesita-el-hibisco.jpg)](https://casaplantavigo.com/blog/cuidados-del-hibisco/)
+
+
