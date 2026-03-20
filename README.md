@@ -48,3 +48,18 @@ Escapado de símbolos (anula los comandos) -> \# texto ejemplo -> \#texto
 * ELEMENTO C
   * SUB ELEMENTO C1
   * SUB ELEMENTO C2
+
+### NUMEROS
+1. ELEMENTO A
+2. ELEMENTO B
+3. ELEMENTO C
+    1. SUB ELEMENTO
+    2. SUB ELEMENTO
+
+## LINKS & IMAGENES
+
+**LINKS** : [Nombre de la web](https://url.com) 
+
+**IMAGEN** : ![texto alternativo](https://url-de-la-imagen.jpg)
+
+**IMAGEN CON LINK** : [![texto alternativo](url-imagen)](url-destino)
