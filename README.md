@@ -17,3 +17,32 @@ sangria con TAB o 4 espacios
 ---
 
 
+# ENCABEZADO
+se utiliza el hashtag para titulos
+
+gato espacio Titulo Nivel 1
+
+gatogato espacio Titulo Nivel 2
+
+gatogatogato espacio Titulo Nivel 3
+
+## FORMATO DE TEXTO
+Negrita -> ** texto ** o __ texto __ ejemplo -> **HOLAAAA**
+
+Cursiva -> * texto * o _ texto _ ejemplo -> *HOLAAAAA*
+
+Negrita y Cursiva -> *** texto *** ejemplo -> ***HOLAAA***
+
+Para hacer el signo ondaonda es option y asterisco
+
+Tachado -> ~~ Texto ~~ejemplo -> ~~HOLAAAAAA~~
+
+Para hacer el simbolo \ es: option mas el signo ?
+
+Escapado de símbolos (anula los comandos) -> \# texto ejemplo -> \#texto
+
+### LISTAS
+**VIÑETAS**
+* ELEMENTO A
+* ELEMENTO B
+* ELEMENTO C
